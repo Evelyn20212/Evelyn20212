@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning Web Development and exploring everything 🤸‍♀️ programming languages.
+- 🌱 I’m currently learning Web Development and exploring everything 🤸‍♀️ ---programming languages.
 
 - 📫 How to reach me **lihuaexample.lh@gmail.com**
 
