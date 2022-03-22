@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Evelyn Li</h1>
+<h1 align="center">Hi 👋, I'm Evelyn</h1>
 <h3 align="center">Programming is not a way of living 🤹‍♀️, it is a hobby🌟.</h3>
 
 <br>
@@ -22,7 +22,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Evelyn Li" height="30" width="40" /></a>
   
-  <a href="https://www.instagram.com/lihuaexample.lh/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/lihuaexample.lh/" target="blank"><img align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Evelyn Li" height="30" width="40" /></a> </p>
 
@@ -70,14 +70,14 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Evelyn20212&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="Evelyn" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Evelyn" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Evelyn" /></a> </p>
 
 [Evelyn20212](https://github.com/Evelyn20212)
 
