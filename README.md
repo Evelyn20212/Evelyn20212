@@ -22,7 +22,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Evelyn Li" height="30" width="40" /></a>
   
-  <a href="https://www.instagram.com/lihuaexample.lh/" target="blank"><img align="right"
+  <a href="https://www.instagram.com/lihuaexample.lh/" target="blank"><img align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Evelyn Li" height="30" width="40" /></a> </p>
 
